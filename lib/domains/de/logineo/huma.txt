@@ -1,0 +1,7 @@
+Stiftisches Humanistisches Gymnasium Mönchengladbach
+Website: https://www.huma-gym.de/ 
+Mail-Domain: huma.logineo.de
+Contact: julian.ballhausen@huma.logineo.de
+
+Die Mail-Domain weicht von der Website-URL ab. Gut überprüfen lässt sich das bei der Seite für Ansprechpartner: https://www.huma-gym.de/huma/kollegium-ansprechpartner/. Sofern man auf die E-Mail-Links klickt, wird man an die Domain huma.logineo.de verwiesen. 
+The email domain differs from the website URL. This can be checked well on the contact page: https://www.huma-gym.de/huma/kollegium-ansprechpartner/. If you click on the email links there, you will be redirected to the domain huma.logineo.de.
